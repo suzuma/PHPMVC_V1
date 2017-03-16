@@ -1,16 +1,15 @@
 ﻿{
-  "name": "hitog/36-psr",
   "authors": [
     {
-      "name": "SuZuMa",
-      "email": "suzumadev@gmail.com"
+      "name": "Eduardo",
+      "email": "hitogoroshi@outlook.com"
     }
   ],
   "autoload": {
     "psr-4": {
-      "App\\": "app/",
-      "Core\\": "core/"
+      "App\\": "app/"
     }
   },
+  "name": "hitog/36-psr",
   "require": { }
 }

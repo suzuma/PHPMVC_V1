@@ -32,7 +32,6 @@
     <Folder Include="app\views\" />
     <Folder Include="app\views\home\" />
     <Folder Include="core\" />
-    <Folder Include="vendor\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="composer.json" />
